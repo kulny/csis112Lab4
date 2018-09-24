@@ -26,7 +26,7 @@
     <ClCompile Include="stdafx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="csis112Lab4.cpp">
+    <ClCompile Include="GradebookDriver.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
